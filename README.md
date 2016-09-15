@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/rajatvig/docker-pactprovider-proxy.svg?branch=master)](https://travis-ci.org/rajatvig/docker-pactprovider-proxy)
+[![](https://images.microbadger.com/badges/image/rajatvig/pactprovider-proxy.svg)](http://microbadger.com/images/rajatvig/pactprovider-proxy "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/rajatvig/pactprovider-proxy.svg)](http://microbadger.com/images/rajatvig/pactprovider-proxy "Get your own version badge on microbadger.com")
+
 ### Pact Broker Proxy
 
 #### Overview
